@@ -1,12 +1,12 @@
-import { useState } from 'react'
 
-
+import Counter from "./Problems/Counter/counter";
 function App() {
   
 
+
   return (
     <>
-      
+      <Counter/>
     </>
   )
 }
